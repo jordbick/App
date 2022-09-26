@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/jordbick/Practice-App/handlers"
+	"github.com/jordbick/App/handlers"
 )
 
 func main() {
